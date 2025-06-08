@@ -4,7 +4,7 @@ export default function Musicas() {
       <h1 className="text-4xl font-extrabold text-center text-grey-100 mb-8">Músicas</h1>
 
       <div className="space-y-4">
-        <h2 className="text-xl font-semibold text-gray-100">Conta nova do Spotify - Arthuro (BR)</h2>
+        <h2 className="text-xl font-semibold text-gray-100">TURN X Arthuro (BR)</h2>
         <iframe
           title="Novo Spotify Player"
           src="https://open.spotify.com/embed/artist/3wK2mSY4CgWTT3sAia2WdC?utm_source=generator"
@@ -17,7 +17,6 @@ export default function Musicas() {
       </div>
 
       <div className="space-y-4">
-        <h2 className="text-xl font-semibold text-gray-100">Conta antiga do Spotify - TURN X</h2>
         <iframe
           title="Spotify Player"
           src="https://open.spotify.com/embed/artist/3CAIUvRWktbPST2UF8bIkO?utm_source=generator"
