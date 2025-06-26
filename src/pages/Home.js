@@ -15,7 +15,7 @@ export default function Home() {
 
       {/* Texto centralizado */}
       <div className="relative z-10 flex items-center justify-center h-full">
-        <h1 className="text-white text-4xl md:text-6xl font-extrabold text-center px-4">
+        <h1 className="text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-center px-4">
           Welcome to Arthuro's world of melodic techno
         </h1>
       </div>

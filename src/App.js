@@ -9,7 +9,7 @@ import Musicas from "./pages/Musicas";
 function App() {
   return (
     <Router>
-      <div className="flex flex-col min-h-screen bg-gradient-to-b from-purple-900 via-purple-800 to-black text-gray-100 overflow-hidden">
+      <div className="flex flex-col min-h-screen bg-gradient-to-b from-purple-900 via-purple-800 to-black text-gray-100">
         
 
         <Header />
