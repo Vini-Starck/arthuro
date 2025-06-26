@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import emailjs from "emailjs-com";
 import { FaInstagram, FaSpotify, FaSoundcloud, FaYoutube, FaEnvelope, FaWhatsapp } from "react-icons/fa";
 
 export default function Contato() {
